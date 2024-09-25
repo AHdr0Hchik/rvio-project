@@ -4,6 +4,14 @@
     justify-content: center;
 }
 
+.list {
+    align-items: stretch;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    margin: 0 -6px;
+}
+
 .item {
     margin-right: 10px;
     margin-bottom: 10px;
